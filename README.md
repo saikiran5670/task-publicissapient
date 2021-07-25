@@ -26,18 +26,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  ## App functionality(Mobile).
     As mentioned the view is transformed into mobile approach functionality 
     Launch page with Mobile mode
-     ![image](https://user-images.githubusercontent.com/52121689/126868880-a9ce47c9-ba6c-49bb-b368-cdb38d5ce461.png)
+   ![image](https://user-images.githubusercontent.com/52121689/126868880-a9ce47c9-ba6c-49bb-b368-cdb38d5ce461.png)
    
    Successful Launch and Successful Landing with Year Selection:
      ![image](https://user-images.githubusercontent.com/52121689/126868951-0e4c2bc2-37b7-4efa-947f-35e4de5ba524.png)
 
    ## App functionality(Tablet).
-
-    Launch page with Tablet mode:
-     ![image](https://user-images.githubusercontent.com/52121689/126868985-df141861-bdba-4ce2-b20d-bcd1ee283b4f.png)
+    Launch page with Tablet mode
+  ![image](https://user-images.githubusercontent.com/52121689/126868985-df141861-bdba-4ce2-b20d-bcd1ee283b4f.png)
 
     Successful Launch and Successful Landing with Year Selection:
-     ![image](https://user-images.githubusercontent.com/52121689/126868995-c107cf6c-714e-4651-af94-6cbcbbe751dc.png)
+  ![image](https://user-images.githubusercontent.com/52121689/126868995-c107cf6c-714e-4651-af94-6cbcbbe751dc.png)
 
 
    
